@@ -1,0 +1,538 @@
+{
+    "app_id": "dce7d4cb0b80c1eec1bbbaa9a262",
+    "collection_id": "d4f0d4cb0be0d8ffe8d58b8ec46a",
+    "items": [
+        {
+            "battery_percent": 100,
+            "item_id": "020e76f6-0d3d-47a6-8186-ada130919a9b",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:24:02",
+            "vm_percent": 60.8
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "048717cc-af50-4654-b2e2-b02787bdb968",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:31",
+            "vm_percent": 57.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "08a88ad1-ce9f-4d37-b628-808812848a27",
+            "power_plugged": false,
+            "secsleft": 38040,
+            "time": "2019-04-20 00:29:42",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "0a7c40cf-2d22-469a-bef5-291adf7536c6",
+            "power_plugged": false,
+            "secsleft": 36840,
+            "time": "2019-04-20 00:30:49",
+            "vm_percent": 61.2
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "130c9773-415d-4531-98ea-220e5498a25c",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:59",
+            "vm_percent": 60.6
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "15d1762b-62f6-40c3-b856-975c71eea048",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:27:46",
+            "vm_percent": 60.2
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "1bf27708-9786-4a31-8d79-1021f8dee050",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:28:04",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "1d202a5b-7bdb-4a59-abd8-c4ea804480ff",
+            "power_plugged": false,
+            "secsleft": 38040,
+            "time": "2019-04-20 00:29:33",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "1d41208a-144e-4da6-8fe1-f06029cb1946",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:50",
+            "vm_percent": 60.9
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "20e640ea-0a64-4f81-9af7-5ceeaeb0c0a2",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:27:52",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "2179fbd2-d1a2-4789-843c-3dabb85d9471",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:26:02",
+            "vm_percent": 60.6
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "23e4128a-ab4c-4b88-84aa-fd331d86c4ff",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:52",
+            "vm_percent": 57.9
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "2431ec3b-e155-420c-b574-e6172cd4f418",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:30:28",
+            "vm_percent": 60.2
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "28302563-4d01-4810-ac2e-b2cc7dc9421d",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:56",
+            "vm_percent": 60.8
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "2ab8bfe8-8a80-4256-9237-a9782f710938",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:44",
+            "vm_percent": 60.9
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "2d172bc7-5d3e-46d4-bf8d-b1ebace35988",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:29:45",
+            "vm_percent": 60.4
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "395169b5-fe90-454c-ba9e-064fd670d65e",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:44",
+            "vm_percent": 60.7
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "3e7b258d-fac9-43b7-9d2b-aa2f407c7f77",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:27:58",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "3fb1f82c-f79f-401f-b26b-4f2ddad4f148",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:46",
+            "vm_percent": 57.4
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "4256f486-9d8d-454f-813e-d2c1b7ab5138",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:38",
+            "vm_percent": 60.7
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "44a3b25b-b2b1-493b-8b06-ca5c6a5784c4",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:56",
+            "vm_percent": 60.6
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "4b1c8228-85aa-4ef0-9edf-6f8319a8d370",
+            "power_plugged": false,
+            "secsleft": 36840,
+            "time": "2019-04-20 00:30:55",
+            "vm_percent": 63.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "53cc2ce4-b63f-4325-bee3-c69a2bb6d296",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:27:55",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "646d8e2c-0d3b-4c67-aa30-f4759dd18d67",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:29:54",
+            "vm_percent": 60
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "648e4c74-82c8-4c37-a032-1162fe3df798",
+            "power_plugged": false,
+            "secsleft": 36840,
+            "time": "2019-04-20 00:30:46",
+            "vm_percent": 61.3
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "65daf5ff-44b0-416b-bfc0-fc3290d82924",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:29:48",
+            "vm_percent": 60
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "76e710aa-6b73-4ec0-8e80-8ee3c2eaf327",
+            "power_plugged": false,
+            "secsleft": 38040,
+            "time": "2019-04-20 00:29:39",
+            "vm_percent": 60.2
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "7927be88-34af-47c1-b615-8b93727e6606",
+            "power_plugged": false,
+            "secsleft": 38040,
+            "time": "2019-04-20 00:29:27",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "800b65a3-4fc4-4f03-b010-adb498e6be0d",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:41",
+            "vm_percent": 60.7
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "88263826-0619-478e-b849-131b794ed621",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:30:37",
+            "vm_percent": 62.4
+        },
+        {
+            "battery_percent": 94,
+            "item_id": "89ec2883-4e72-441d-85ad-838162b9c0af",
+            "power_plugged": false,
+            "secsleft": 17580,
+            "time": "2019-04-19 22:47:29",
+            "vm_percent": 69.7
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "8d142a78-83f3-4674-befb-bcbe57dddd15",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:30:31",
+            "vm_percent": 60.5
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "8e3ac8cd-ad23-431f-a67d-035507a13338",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-19 23:44:47",
+            "vm_percent": 71.1
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "921a935d-387c-49ab-98ff-f65ef084d1ba",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:47",
+            "vm_percent": 60.6
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "923fc865-46b7-4158-89a8-347d82469b3b",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:47",
+            "vm_percent": 60.9
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "94d16dd5-4ad3-46d1-8daf-609639534a7f",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:29:51",
+            "vm_percent": 60
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "9835c8a5-3936-47fc-8c9d-f23002df740a",
+            "power_plugged": false,
+            "secsleft": 36840,
+            "time": "2019-04-20 00:30:43",
+            "vm_percent": 61.2
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "9fb925d1-33e5-460e-bd25-5ab976593ec6",
+            "power_plugged": false,
+            "secsleft": 38040,
+            "time": "2019-04-20 00:29:30",
+            "vm_percent": 60.2
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "a0a88ab1-a62f-4c58-a58a-5293bd0567a1",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:49",
+            "vm_percent": 57.8
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "a5a38567-1753-438f-9814-7763f9d8b537",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:40",
+            "vm_percent": 57.3
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "a6fc7916-10d5-4723-841a-cfff1fac6eb0",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:37",
+            "vm_percent": 57.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "ab15893c-65ce-4bbe-897b-c84912f2ac03",
+            "power_plugged": false,
+            "secsleft": -1,
+            "time": "2019-04-20 00:27:37",
+            "vm_percent": 60.4
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "ab70cd09-72ad-43e9-b596-beddbd4ec61e",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:34",
+            "vm_percent": 57.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "b7a22743-de60-4e50-956c-1a1b476a9326",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:53",
+            "vm_percent": 60.8
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "ba613baf-b205-402f-8912-7a0f03705c4c",
+            "power_plugged": false,
+            "secsleft": 38040,
+            "time": "2019-04-20 00:29:36",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "bac9b18e-691d-4461-b7e8-1e584e9945e9",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:50",
+            "vm_percent": 60.6
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "bde2da58-0cc2-4662-a4e4-630cdb15cb1b",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:30:34",
+            "vm_percent": 61
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "bea0e705-3bc1-4a19-8994-c81b25e19b15",
+            "power_plugged": false,
+            "secsleft": 36240,
+            "time": "2019-04-20 00:32:25",
+            "vm_percent": 57.3
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "c038815e-40f5-4806-a57f-d0dc74850a5a",
+            "power_plugged": false,
+            "secsleft": 36840,
+            "time": "2019-04-20 00:30:52",
+            "vm_percent": 62.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "c17cf89f-6c41-4db0-ba6b-07ae583f9c8b",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:38",
+            "vm_percent": 60.9
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "c96cf343-60bc-4531-a3bc-e3ac234afc55",
+            "power_plugged": false,
+            "secsleft": -1,
+            "time": "2019-04-20 00:27:40",
+            "vm_percent": 60.2
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "ca702b77-2487-4e98-a4c0-c8a387edb155",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:41",
+            "vm_percent": 60.9
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "cb2e5402-054c-4090-8cbe-ca2b4502bbb0",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:27:43",
+            "vm_percent": 60.2
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "cd845a95-52a2-4957-aeb0-67d13e09c986",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:35",
+            "vm_percent": 61
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "d017dbb7-375a-47d9-9160-16a03d87ca73",
+            "power_plugged": false,
+            "secsleft": 37440,
+            "time": "2019-04-20 00:30:40",
+            "vm_percent": 62.2
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "d2322874-9f87-4e10-86a3-8c35385f6a73",
+            "power_plugged": false,
+            "secsleft": 36240,
+            "time": "2019-04-20 00:32:28",
+            "vm_percent": 57.2
+        },
+        {
+            "battery_percent": 99,
+            "item_id": "d74b197c-fd57-4e33-87eb-45c939c40585",
+            "power_plugged": true,
+            "secsleft": -2,
+            "time": "2019-04-20 00:32:43",
+            "vm_percent": 57.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "de638a3c-14bc-4200-b39b-3da91079308d",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:26:05",
+            "vm_percent": 60.6
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "df5d26bf-2b27-4464-9f9b-b31802f84d22",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:28:01",
+            "vm_percent": 60.3
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "e2482bd9-dcfc-4a29-acf2-d8111b1ec3d1",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:25:53",
+            "vm_percent": 60.6
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "e747305b-bc5c-4ddb-a161-1e30b2f22ec5",
+            "power_plugged": false,
+            "secsleft": 33720,
+            "time": "2019-04-20 00:23:59",
+            "vm_percent": 60.8
+        },
+        {
+            "battery_percent": 100,
+            "item_id": "f4f4e780-17af-43bd-a7d0-0d1ff1267fe3",
+            "power_plugged": false,
+            "secsleft": 38640,
+            "time": "2019-04-20 00:27:49",
+            "vm_percent": 60.2
+        }
+    ],
+    "name": "pc_info",
+    "permissions": {
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "time",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "vm_percent",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "battery_percent",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "secsleft",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "power_plugged",
+            "ColumnType": "bool",
+            "PK": false
+        }
+    ]
+}
