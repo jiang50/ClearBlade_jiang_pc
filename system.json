@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "get pc information",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "jiang_pc",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "dce7d4cb0b80c1eec1bbbaa9a262",
+    "system_secret": ""
+}
