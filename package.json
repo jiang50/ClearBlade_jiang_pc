@@ -1,0 +1,31 @@
+{
+    "asset_types": [
+        "Code Services",
+        "Collections",
+        "Devices",
+        "Edges",
+        "Roles",
+        "Triggers",
+        "Users"
+    ],
+    "author": {
+        "email": "jiang50@tamu.edu"
+    },
+    "clouds": [],
+    "description": "send pc information to ClearBlade platform",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "ClearBlade_jiang_pc",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
